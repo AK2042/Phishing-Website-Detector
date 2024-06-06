@@ -5,7 +5,7 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
 from sklearn.linear_model import LogisticRegression
 import pickle
 
-data = pd.read_csv('balanced_phishing_site_urls.csv')
+data = pd.read_csv('phishing_site_urls.csv')
 urls = data['URL']
 labels = data['Label']
 
