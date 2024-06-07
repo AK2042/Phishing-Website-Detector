@@ -22,4 +22,16 @@ or no.
  ### Install the repository
 
  ```
-  git clone 
+  git clone git@github.com:AK2042/PyHack24-DomainMasters-PYHack04.git
+```
+
+### change directory into the github repository
+
+```
+cd PyHack24-DomainMasters-PYHack04
+```
+
+### Run the program 
+```
+npm run dev
+```
