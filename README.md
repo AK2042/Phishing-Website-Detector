@@ -22,13 +22,13 @@ or no.
  ### Install the repository
 
  ```
-  git clone git@github.com:AK2042/PyHack24-DomainMasters-PYHack04.git
+  git clone git@github.com:AK2042/Phishing-Website-Detector.git
 ```
 
 ### change directory into the github repository
 
 ```
-cd PyHack24-DomainMasters-PYHack04
+cd Phishing-Website-Detector
 ```
 
 ### Run the program 
