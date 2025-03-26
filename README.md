@@ -1,4 +1,4 @@
-# Welcome to the Repository of Domain masters
+# Welcome to the Phishing Website Detector Project
 
 The project developed by us is a phishing link detector
 
